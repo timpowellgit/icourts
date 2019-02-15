@@ -1,0 +1,6 @@
+2015-06-29 17:02:10,387 : INFO : topic #0 (0.053): 0.037*commission + 0.037*objective + 0.022*rules + 0.022*states + 0.022*effect + 0.020*measure + 0.018*public + 0.018*interest + 0.015*justified + 0.015*national
+2015-06-29 17:02:10,387 : INFO : topic #1 (0.009): 0.063*regulation + 0.035*accession + 0.029*force + 0.025*situations + 0.023*future + 0.023*republic + 0.021*employment + 0.021*applicable + 0.019*date + 0.019*austria
+2015-06-29 17:02:10,388 : INFO : topic #2 (0.055): 0.078*community + 0.046*treaty + 0.029*provisions + 0.021*council + 0.019*principle + 0.018*country + 0.018*eec + 0.018*judgment + 0.016*law + 0.015*special
+2015-06-29 17:02:10,388 : INFO : topic #3 (0.014): 0.057*vehicle + 0.051*tax + 0.048*netherlands + 0.040*member + 0.023*registered + 0.021*states + 0.021*provided + 0.019*order + 0.019*taxation + 0.018*van
+2015-06-29 17:02:10,389 : INFO : topic #4 (0.268): 0.145*member + 0.135*state + 0.035*states + 0.031*national + 0.022*territory + 0.019*conditions + 0.017*residence + 0.017*question + 0.015*nationals + 0.012*person
+2015-06-29 17:02:10,389 : INFO : topic #5 (0.048): 0.048*member + 0.040*union + 0.034*law + 0.033*treaty + 0.026*nationals + 0.023*states + 0.023*nationality + 0.022*community + 0.018*citizen + 0.018*state
